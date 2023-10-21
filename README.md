@@ -6,10 +6,12 @@ Hola 👋, soy Brayan Orellana, estudiante de tercer año de la carrera de Ingen
 
 ## Experiencia en Programación
 
-Tengo experiencia en varios lenguajes de programación, entre ellos:
+Tengo experiencia en algunos lenguajes de programación, entre ellos:
 
 - **Java**: He trabajado en diversos proyectos utilizando Java, desde aplicaciones de escritorio hasta aplicaciones web.
 - **C#**: Con experiencia en el desarrollo de aplicaciones Windows y servicios web.
+- **JavaScript**: Trabaje con este lenguaje para poder realizar trabajos actuales para una materia, utilizando algunas herramientas de lenguaje de etiquetas como HTML, CSS y   
+Bootstrap.
 
 ## Contacto
 
