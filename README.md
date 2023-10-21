@@ -10,7 +10,6 @@ Tengo experiencia en varios lenguajes de programación, entre ellos:
 
 - **Java**: He trabajado en diversos proyectos utilizando Java, desde aplicaciones de escritorio hasta aplicaciones web.
 - **C#**: Con experiencia en el desarrollo de aplicaciones Windows y servicios web.
-- **Python**: He utilizado Python para diversos propósitos, desde scripts simples hasta aplicaciones más complejas.
 
 ## Contacto
 
