@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-Hola 👋, soy Brayan Orellana, estudiante de tercer año de la carrera de Ingeniería en Sistemas y Computación en la Universidad Tecnlógica de El Salvador. Actualmente soy pasante beneficiado en la Secretaría de Innovación.
+Hola 👋, soy Brayan Orellana, estudiante de tercer año de la carrera de Ingeniería en Sistemas y Computación en la Universidad Tecnológica de El Salvador. Actualmente soy pasante beneficiado en la Secretaría de Innovación.
 
 ## Experiencia en Programación
 
